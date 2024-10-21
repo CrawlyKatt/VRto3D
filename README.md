@@ -17,7 +17,7 @@
 - SR Displays (Acer Spatial Labs / Asus Spatial Vision / Samsung Odyssey 3D) - work great, currently expensive
 - 3D Vision hardware (only RTX 20x or older) - will have game compatibility issues, hardware is hard to find
 - Virtual Desktop with a VR headset - apparently works, but will not be officially supported
- 
+- Hacked 3DS works great as a portible solution if you have one laying around, again, requires [Sunshine/Gamestream + Moonlight](https://support.leiainc.com/lume-pad-2/apps/moonlight3d)
 
 ## Compatible VR Games & Mods
 Checkout the [Compatibility List](https://github.com/oneup03/VRto3D/wiki/Compatibility-List) to see if a game has been tested
